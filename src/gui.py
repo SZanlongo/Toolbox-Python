@@ -1,6 +1,7 @@
 # GUI
 
 # Progress Bar
+#https://stackoverflow.com/questions/691946/short-and-useful-python-snippets
 class ProgressBar():
     def __init__(self, width=50):
         self.pointer = 0
